@@ -1,6 +1,6 @@
-[![Stand With Palestine](https://raw.githubusercontent.com/TheBSD/StandWithPalestine/main/banner-no-action.svg)](https://thebsd.github.io/StandWithPalestine)
 
-#  <img src="https://github.com/takitajwar17/Simple-Todo-List-Refactored/assets/111155827/4b1c2e01-f24b-4f39-899e-c356d468e386" width="300">
+
+
 
 ## Simple Todo List App Docs
 
@@ -37,11 +37,6 @@ Make sure you have the following installed:
 
 ### Installation
 
-1. **Clone the Repository:**
-
-   ```bash
-   git clone git@github.com:abdellatif-laghjaj/todo-list.git
-   ```
 
 2. **Navigate to the Project Directory:**
 
@@ -173,6 +168,3 @@ The TO-DOIT App is deployed and accessible online. You can use the following lin
    - Select a theme from the available options.
 
 
-## 9. License
-
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) and was originally developed by [@abdellatif-laghjaj](https://github.com/abdellatif-laghjaj) with the contribution of [@takitajwar17](https://github.com/takitajwar17). 
